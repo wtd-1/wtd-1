@@ -1,5 +1,5 @@
 ## Greetings.
-Some repositories herewith are pertinent to Computer Vision. My interests have since shifted towards subjects in the realm of theoretical computer science, such as string algorithms, social networks, algorithmic design and computational complexity, et. cetera. 
+Some repositories herewith are pertinent to Computer Vision. My interests have since shifted towards subjects in the realm of theoretical computer science, such as string algorithms, social networks, algorithmic design and computational complexity, et. cetera. For more, and updated, information, see my website.
 <!--
 **wtd-1/wtd-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
